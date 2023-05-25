@@ -15,7 +15,7 @@ This project retrieves data from the eBird API using Python. It fetches species 
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/nicole440/dryocopus-pileatus.git
    ```
 
 2. Install the required dependencies using pip:
