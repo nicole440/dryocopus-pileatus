@@ -21,7 +21,7 @@ This project retrieves data from the eBird API using Python. It fetches species 
 2. Install the required dependencies using pip:
 
     ```bash
-    pip install -r requirements.txt
+    pip install requests
     ```
 
 3. Set up the API key:
