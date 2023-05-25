@@ -26,14 +26,14 @@ This project retrieves data from the eBird API using Python. It fetches species 
 
 3. Set up the API key:
 
-- Obtain an API key from the eBird website.
-- Create a .env file in the project root directory.
-- Add the following line to the .env file:
+    - Obtain an API key from the eBird website.
+    - Create a .env file in the project root directory.
+    - Add the following line to the .env file:
 
-```
-EBIRD_API_KEY=your-api-key
-```
-Replace your-api-key with your actual eBird API key.
+        ```
+        EBIRD_API_KEY=your-api-key
+        ```
+        *Replace your-api-key with your actual eBird API key.*
 
 ### Usage
 1. Run the main.py script:
@@ -42,13 +42,12 @@ Replace your-api-key with your actual eBird API key.
     python main.py
     ```
 
-The script will make API calls to retrieve the species codes and recent observations data from eBird.
+    The script will make API calls to retrieve the species codes and recent observations data from eBird.
 
 2. Data files:
 
-- The species codes for all recorded observations in PA will be saved as pa_species.csv.
-- The recent observations in PA will be saved as recent_observations.csv.
-You can use these CSV files for further analysis, processing, or visualization.
+    - The species codes for all recorded observations in PA will be saved as pa_species.csv.
+    - The recent observations in PA will be saved as recent_observations.csv. You can use these CSV files for further analysis, processing, or visualization.
 
 
 ### Notes
