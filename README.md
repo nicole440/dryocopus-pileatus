@@ -36,13 +36,7 @@ This project retrieves data from the eBird API using Python. It fetches species 
         *Replace your-api-key with your actual eBird API key.*
 
 ### Usage
-1. Run the main.py script:
-
-    ```bash
-    python main.py
-    ```
-
-    The script will make API calls to retrieve the species codes and recent observations data from eBird.
+1. Run each cell of the Jupyter Notebook. This will make API calls to retrieve the species codes and recent observations data from eBird.
 
 2. Data files:
 
