@@ -1,0 +1,263 @@
+speciesCode,comName,sciName,locId,locName,obsDt,howMany,lat,lng,obsValid,obsReviewed,locationPrivate,subId
+barswa,Barn Swallow,Hirundo rustica,L14599930,Mudlick Home,2023-05-25 05:50,1,40.851303,-77.974157,True,False,True,S139170789
+amecro,American Crow,Corvus brachyrhynchos,L14599930,Mudlick Home,2023-05-25 05:50,2,40.851303,-77.974157,True,False,True,S139170789
+buggna,Blue-gray Gnatcatcher,Polioptila caerulea,L14599930,Mudlick Home,2023-05-25 05:50,1,40.851303,-77.974157,True,False,True,S139170789
+balori,Baltimore Oriole,Icterus galbula,L14599930,Mudlick Home,2023-05-25 05:50,1,40.851303,-77.974157,True,False,True,S139170789
+bnhcow,Brown-headed Cowbird,Molothrus ater,L14599930,Mudlick Home,2023-05-25 05:50,1,40.851303,-77.974157,True,False,True,S139170789
+whbnut,White-breasted Nuthatch,Sitta carolinensis,L14599930,Mudlick Home,2023-05-25 05:50,1,40.851303,-77.974157,True,False,True,S139170789
+bkcchi,Black-capped Chickadee,Poecile atricapillus,L14599930,Mudlick Home,2023-05-25 05:50,1,40.851303,-77.974157,True,False,True,S139170789
+moudov,Mourning Dove,Zenaida macroura,L14599930,Mudlick Home,2023-05-25 05:50,1,40.851303,-77.974157,True,False,True,S139170789
+rebwoo,Red-bellied Woodpecker,Melanerpes carolinus,L14599930,Mudlick Home,2023-05-25 05:50,2,40.851303,-77.974157,True,False,True,S139170789
+cedwax,Cedar Waxwing,Bombycilla cedrorum,L14599930,Mudlick Home,2023-05-25 05:50,40.851303,-77.974157,True,False,True,S139170789
+houwre,House Wren,Troglodytes aedon,L14599930,Mudlick Home,2023-05-25 05:50,1,40.851303,-77.974157,True,False,True,S139170789
+amered,American Redstart,Setophaga ruticilla,L14599930,Mudlick Home,2023-05-25 05:50,1,40.851303,-77.974157,True,False,True,S139170789
+amerob,American Robin,Turdus migratorius,L14599930,Mudlick Home,2023-05-25 05:50,40.851303,-77.974157,True,False,True,S139170789
+comyel,Common Yellowthroat,Geothlypis trichas,L14599930,Mudlick Home,2023-05-25 05:50,1,40.851303,-77.974157,True,False,True,S139170789
+carwre,Carolina Wren,Thryothorus ludovicianus,L14599930,Mudlick Home,2023-05-25 05:50,1,40.851303,-77.974157,True,False,True,S139170789
+norcar,Northern Cardinal,Cardinalis cardinalis,L862976,Springton Reservoir (restricted access),2023-05-25 05:43,1,39.9552803,-75.4007149,True,False,False,S139170668
+doccor,Double-crested Cormorant,Nannopterum auritum,L862976,Springton Reservoir (restricted access),2023-05-25 05:43,6,39.9552803,-75.4007149,True,False,False,S139170668
+sonspa,Song Sparrow,Melospiza melodia,L862976,Springton Reservoir (restricted access),2023-05-25 05:43,1,39.9552803,-75.4007149,True,False,False,S139170668
+cangoo,Canada Goose,Branta canadensis,L862976,Springton Reservoir (restricted access),2023-05-25 05:43,16,39.9552803,-75.4007149,True,False,False,S139170668
+reevir1,Red-eyed Vireo,Vireo olivaceus,L14992825,Tipple Road,2023-05-25 05:30,1,41.1218509,-78.1058786,True,False,True,S139170513
+ovenbi1,Ovenbird,Seiurus aurocapilla,L14992825,Tipple Road,2023-05-25 05:30,1,41.1218509,-78.1058786,True,False,True,S139170513
+woothr,Wood Thrush,Hylocichla mustelina,L14992825,Tipple Road,2023-05-25 05:30,2,41.1218509,-78.1058786,True,False,True,S139170513
+woewar1,Worm-eating Warbler,Helmitheros vermivorum,L14992825,Tipple Road,2023-05-25 05:30,1,41.1218509,-78.1058786,True,False,True,S139170513
+bawwar,Black-and-white Warbler,Mniotilta varia,L14992825,Tipple Road,2023-05-25 05:30,1,41.1218509,-78.1058786,True,False,True,S139170513
+scatan,Scarlet Tanager,Piranga olivacea,L14992825,Tipple Road,2023-05-25 05:30,1,41.1218509,-78.1058786,True,False,True,S139170513
+robgro,Rose-breasted Grosbeak,Pheucticus ludovicianus,L14992825,Tipple Road,2023-05-25 05:30,1,41.1218509,-78.1058786,True,False,True,S139170513
+houfin,House Finch,Haemorhous mexicanus,L7505084,The Preserve at Worcester (Private),2023-05-25 05:28,2,40.177258,-75.3155,True,False,True,S139170124,N
+normoc,Northern Mockingbird,Mimus polyglottos,L7505084,The Preserve at Worcester (Private),2023-05-25 05:28,1,40.177258,-75.3155,True,False,True,S139170124
+orcori,Orchard Oriole,Icterus spurius,L7505084,The Preserve at Worcester (Private),2023-05-25 05:28,1,40.177258,-75.3155,True,False,True,S139170124
+easkin,Eastern Kingbird,Tyrannus tyrannus,L7505084,The Preserve at Worcester (Private),2023-05-25 05:28,1,40.177258,-75.3155,True,False,True,S139170124
+fiscro,Fish Crow,Corvus ossifragus,L20995515,nuthatch,2023-05-25 05:14,1,40.5166106,-75.9852661,True,False,True,S139169829
+easwpw1,Eastern Whip-poor-will,Antrostomus vociferus,L14992741,Lost Run Road,2023-05-25 05:00,2,41.2145811,-78.2445062,True,False,True,S139169752
+fiespa,Field Sparrow,Spizella pusilla,L14992741,Lost Run Road,2023-05-25 05:00,2,41.2145811,-78.2445062,True,False,True,S139169752
+eastow,Eastern Towhee,Pipilo erythrophthalmus,L14992741,Lost Run Road,2023-05-25 05:00,1,41.2145811,-78.2445062,True,False,True,S139169752
+pinwar,Pine Warbler,Setophaga pinus,L16790594,"106 Bear Walk Dr, Milford US-PA 41.29243, -74.88410",2023-05-24 22:40,1,41.292433,-74.884098,True,False,True,S139159290
+swaspa,Swamp Sparrow,Melospiza georgiana,L16790594,"106 Bear Walk Dr, Milford US-PA 41.29243, -74.88410",2023-05-24 22:40,1,41.292433,-74.884098,True,False,True,S139159290
+grcfly,Great Crested Flycatcher,Myiarchus crinitus,L16790594,"106 Bear Walk Dr, Milford US-PA 41.29243, -74.88410",2023-05-24 22:40,1,41.292433,-74.884098,True,False,True,S139159290
+bkbwar,Blackburnian Warbler,Setophaga fusca,L16790594,"106 Bear Walk Dr, Milford US-PA 41.29243, -74.88410",2023-05-24 22:40,1,41.292433,-74.884098,True,False,True,S139159290
+tuftit,Tufted Titmouse,Baeolophus bicolor,L16790594,"106 Bear Walk Dr, Milford US-PA 41.29243, -74.88410",2023-05-24 22:40,2,41.292433,-74.884098,True,False,True,S139159290
+blujay,Blue Jay,Cyanocitta cristata,L16790594,"106 Bear Walk Dr, Milford US-PA 41.29243, -74.88410",2023-05-24 22:40,1,41.292433,-74.884098,True,False,True,S139159290
+cerwar,Cerulean Warbler,Setophaga cerulea,L16790594,"106 Bear Walk Dr, Milford US-PA 41.29243, -74.88410",2023-05-24 22:40,1,41.292433,-74.884098,True,False,True,S139159290
+yetvir,Yellow-throated Vireo,Vireo flavifrons,L16790594,"106 Bear Walk Dr, Milford US-PA 41.29243, -74.88410",2023-05-24 22:40,1,41.292433,-74.884098,True,False,True,S139159290
+amegfi,American Goldfinch,Spinus tristis,L16790594,"106 Bear Walk Dr, Milford US-PA 41.29243, -74.88410",2023-05-24 22:40,1,41.292433,-74.884098,True,False,True,S139159290
+rewbla,Red-winged Blackbird,Agelaius phoeniceus,L16790594,"106 Bear Walk Dr, Milford US-PA 41.29243, -74.88410",2023-05-24 22:40,1,41.292433,-74.884098,True,False,True,S139159290
+bkpwar,Blackpoll Warbler,Setophaga striata,L16790594,"106 Bear Walk Dr, Milford US-PA 41.29243, -74.88410",2023-05-24 22:40,1,41.292433,-74.884098,True,False,True,S139159290
+louwat,Louisiana Waterthrush,Parkesia motacilla,L16790594,"106 Bear Walk Dr, Milford US-PA 41.29243, -74.88410",2023-05-24 22:40,1,41.292433,-74.884098,True,False,True,S139159290
+rthhum,Ruby-throated Hummingbird,Archilochus colubris,L16790594,"106 Bear Walk Dr, Milford US-PA 41.29243, -74.88410",2023-05-24 22:40,1,41.292433,-74.884098,True,False,True,S139159290
+easpho,Eastern Phoebe,Sayornis phoebe,L16790594,"106 Bear Walk Dr, Milford US-PA 41.29243, -74.88410",2023-05-24 22:40,1,41.292433,-74.884098,True,False,True,S139159290
+chispa,Chipping Sparrow,Spizella passerina,L16790594,"106 Bear Walk Dr, Milford US-PA 41.29243, -74.88410",2023-05-24 22:40,3,41.292433,-74.884098,True,False,True,S139159290
+swathr,Swainson's Thrush,Catharus ustulatus,L17711128,Greycar Rion Memorial Refuge (my yard),2023-05-24 21:44,2,39.8488116,-75.5180149,True,False,True,S139160514
+bkbcuc,Black-billed Cuckoo,Coccyzus erythropthalmus,L17711128,Greycar Rion Memorial Refuge (my yard),2023-05-24 21:44,1,39.8488116,-75.5180149,True,False,True,S139160514
+comnig,Common Nighthawk,Chordeiles minor,L24632999,"617 N Taylor Ave, Pittsburgh US-PA 40.45613, -80.01392",2023-05-24 21:26,2,40.456125,-80.013917,True,False,True,S139154599
+grhowl,Great Horned Owl,Bubo virginianus,L23523558,"277 Saxony Drive, Newtown, Pennsylvania, US (40.251, -74.918",2023-05-24 21:13,1,40.250954,-74.918202,True,False,True,S139153806
+belkin1,Belted Kingfisher,Megaceryle alcyon,L24238451,"138 Main Street, Ohiopyle, Pennsylvania, US (39.864, -79.497)",2023-05-24 20:44,1,39.8635167,-79.49749,True,False,True,S139151381
+chiswi,Chimney Swift,Chaetura pelagica,L24632109,"1738 Penn Avenue, Pittsburgh, Pennsylvania, US (40.45, -79.985)",2023-05-24 20:33,20,40.4504721,-79.9848508,True,False,True,S139150510
+osprey,Osprey,Pandion haliaetus,L1548496,"Jamie Hill's Waterford, PA, Pond Property",2023-05-24 20:31,4,41.9315959,-79.956799,True,False,True,S139150340
+purmar,Purple Martin,Progne subis,L1548496,"Jamie Hill's Waterford, PA, Pond Property",2023-05-24 20:31,40,41.9315959,-79.956799,True,False,True,S139150340
+grbher3,Great Blue Heron,Ardea herodias,L7972079,Home 15055 West Creek Rd.,2023-05-24 20:26,1,40.1118452,-77.5798816,True,False,True,S139149710
+grycat,Gray Catbird,Dumetella carolinensis,L2629695,Bill's Backyard,2023-05-24 20:24,2,41.2533196,-80.4701013,True,False,True,S139151585
+purfin,Purple Finch,Haemorhous purpureus,L2629695,Bill's Backyard,2023-05-24 20:24,1,41.2533196,-80.4701013,True,False,True,S139151585
+houspa,House Sparrow,Passer domesticus,L3455645,Houston,2023-05-24 20:17,5,40.2533326,-80.2072012,True,False,True,S139151178,N
+eursta,European Starling,Sturnus vulgaris,L3455645,Houston,2023-05-24 20:17,2,40.2533326,-80.2072012,True,False,True,S139151178,N
+mallar3,Mallard,Anas platyrhynchos,L17325750,Rolling Hills Park/Peters Township High School,2023-05-24 20:16,2,40.2768571,-80.1028942,True,False,True,S139148648
+commer,Common Merganser,Mergus merganser,L263704,Morrisville Levee,2023-05-24 20:12,1,40.2146879,-74.7737246,True,False,False,S139148290
+killde,Killdeer,Charadrius vociferus,L24631746,"2255 Allentown Road, Quakertown, Pennsylvania, US (40.446, -75.399)",2023-05-24 20:11,1,40.4463974,-75.3989989,True,False,True,S139148312
+rethaw,Red-tailed Hawk,Buteo jamaicensis,L1340253,Talleyrand Park,2023-05-24 19:59,1,40.9112146,-77.781243,True,False,False,S139152159
+turvul,Turkey Vulture,Cathartes aura,L1340253,Talleyrand Park,2023-05-24 19:59,23,40.9112146,-77.781243,True,False,False,S139152159
+comgra,Common Grackle,Quiscalus quiscula,L1340253,Talleyrand Park,2023-05-24 19:59,3,40.9112146,-77.781243,True,False,False,S139152159
+brdowl,Barred Owl,Strix varia,L24631536,"18821, Great Bend US-PA 41.97947, -75.73252",2023-05-24 19:57,2,41.979471,-75.732518,True,False,True,S139147030
+dowwoo,Downy Woodpecker,Dryobates pubescens,L10105734,Strasburg Borough,2023-05-24 19:56,1,39.9842278,-76.1797649,True,False,True,S139149542
+easblu,Eastern Bluebird,Sialia sialis,L13010857,"Perry Highway, Portersville, Pennsylvania, US",2023-05-24 19:41,7,40.9253121,-80.1434666,True,False,True,S139148327
+hoowar,Hooded Warbler,Setophaga citrina,L18890634,"13703 Old Route 19 N, Waterford US-PA 41.89639, -79.99394",2023-05-24 19:40,2,41.896395,-79.99394,True,False,True,S139153627
+yelwar,Yellow Warbler,Setophaga petechia,L18890634,"13703 Old Route 19 N, Waterford US-PA 41.89639, -79.99394",2023-05-24 19:40,1,41.896395,-79.99394,True,False,True,S139153627
+buhvir,Blue-headed Vireo,Vireo solitarius,L18890634,"13703 Old Route 19 N, Waterford US-PA 41.89639, -79.99394",2023-05-24 19:40,2,41.896395,-79.99394,True,False,True,S139153627
+carchi,Carolina Chickadee,Poecile carolinensis,L11715295,Frick Park--South Clayton West (Monitoring),2023-05-24 19:40,1,40.436438,-79.904485,True,False,False,S139149818
+pilwoo,Pileated Woodpecker,Dryocopus pileatus,L18890634,"13703 Old Route 19 N, Waterford US-PA 41.89639, -79.99394",2023-05-24 19:40,1,41.896395,-79.99394,True,False,True,S139153627
+coohaw,Cooper's Hawk,Accipiter cooperii,L21878635,"438 Union Avenue, Pittsburgh, Pennsylvania, US (40.443, -80.062)",2023-05-24 19:40,1,40.4429659,-80.0624199,True,False,True,S139147327
+eawpew,Eastern Wood-Pewee,Contopus virens,L18890634,"13703 Old Route 19 N, Waterford US-PA 41.89639, -79.99394",2023-05-24 19:40,1,41.896395,-79.99394,True,False,True,S139153627
+haiwoo,Hairy Woodpecker,Dryobates villosus,L11715295,Frick Park--South Clayton West (Monitoring),2023-05-24 19:40,1,40.436438,-79.904485,True,False,False,S139149818
+easmea,Eastern Meadowlark,Sturnella magna,L24631105,"224 Hedgedus Rd, Scottdale US-PA (40.1137,-79.6512)",2023-05-24 19:34,1,40.113715,-79.651162,True,False,True,S139144467
+treswa,Tree Swallow,Tachycineta bicolor,L2708303,Mt. Pleasant Rd.,2023-05-24 19:30,1,40.1388551,-76.5282083,True,False,True,S139154135
+warvir,Warbling Vireo,Vireo gilvus,L22121430,"S Creek Rd, Chadds Ford US-PA (39.8599,-75.5989)",2023-05-24 19:20,1,39.859911,-75.598872,True,False,True,S139158350
+yebcha,Yellow-breasted Chat,Icteria virens,L17294750,Mapleflower HOA,2023-05-24 19:15,1,40.111253,-75.7658946,True,False,True,S139144262
+whevir,White-eyed Vireo,Vireo griseus,L17294750,Mapleflower HOA,2023-05-24 19:15,1,40.111253,-75.7658946,True,False,True,S139144262
+leasan,Least Sandpiper,Calidris minutilla,L7369104,Antrim Commons Dr. Ponds,2023-05-24 19:11,2,39.7603111,-77.7365413,True,False,False,S139146603
+norsho,Northern Shoveler,Spatula clypeata,L7369104,Antrim Commons Dr. Ponds,2023-05-24 19:11,1,39.7603111,-77.7365413,True,True,False,S139146603
+rocpig,Rock Pigeon,Columba livia,L7369104,Antrim Commons Dr. Ponds,2023-05-24 19:11,7,39.7603111,-77.7365413,True,False,False,S139146603,N
+sposan,Spotted Sandpiper,Actitis macularius,L7369104,Antrim Commons Dr. Ponds,2023-05-24 19:11,2,39.7603111,-77.7365413,True,False,False,S139146603
+wilfly,Willow Flycatcher,Empidonax traillii,L7369104,Antrim Commons Dr. Ponds,2023-05-24 19:11,1,39.7603111,-77.7365413,True,False,False,S139146603
+nrwswa,Northern Rough-winged Swallow,Stelgidopteryx serripennis,L7369104,Antrim Commons Dr. Ponds,2023-05-24 19:11,6,39.7603111,-77.7365413,True,False,False,S139146603
+comrav,Common Raven,Corvus corax,L7369104,Antrim Commons Dr. Ponds,2023-05-24 19:11,3,39.7603111,-77.7365413,True,False,False,S139146603
+indbun,Indigo Bunting,Passerina cyanea,L12461584,Hillview,2023-05-24 19:07,1,40.011861,-76.443787,True,False,True,S139170727
+horlar,Horned Lark,Eremophila alpestris,L12461584,Hillview,2023-05-24 19:07,3,40.011861,-76.443787,True,False,True,S139170727
+norfli,Northern Flicker,Colaptes auratus,L4321193,Westminster College--Old Railway Trail,2023-05-24 19:05,1,41.1108109,-80.3247276,True,False,False,S139146267
+rehwoo,Red-headed Woodpecker,Melanerpes erythrocephalus,L1853784,Juniata River--Casner's Crossing,2023-05-24 19:04,2,40.5524584,-77.3982096,True,False,False,S139145127
+baleag,Bald Eagle,Haliaeetus leucocephalus,L677216,Canonsburg Lake,2023-05-24 19:03,1,40.269883,-80.1315522,True,False,False,S139148214
+grnher,Green Heron,Butorides virescens,L677216,Canonsburg Lake,2023-05-24 19:03,1,40.269883,-80.1315522,True,False,False,S139148214
+daejun,Dark-eyed Junco,Junco hyemalis,L21490266,"Private Residence--35 Wetmore Street, Wellsboro",2023-05-24 18:50,1,41.7519632,-77.2909192,True,False,True,S139143027
+mutswa,Mute Swan,Cygnus olor,L23189909,"Hancock Lane Pond, Doylestown US-PA",2023-05-24 18:47,1,40.345644,-75.096487,True,False,True,S139148469,N
+brnthr,Brown Thrasher,Toxostoma rufum,L1766214,"4240 kota avenue, harrisburg, pa",2023-05-24 18:47,2,40.3278245,-76.8590563,True,False,True,S139148234
+norpar,Northern Parula,Setophaga americana,L1766214,"4240 kota avenue, harrisburg, pa",2023-05-24 18:47,1,40.3278245,-76.8590563,True,False,True,S139148234
+greegr,Great Egret,Ardea alba,L3959490,Springbrook Court,2023-05-24 18:45,2,40.0525068,-76.355179,True,False,True,S139141209
+canwar,Canada Warbler,Cardellina canadensis,L17717262,"8621 Black Valley Rd, Everett US-PA 39.97591, -78.41037MountainMeadowsBackyard",2023-05-24 18:30,1,39.975909,-78.410373,True,False,True,S139147064
+wooduc,Wood Duck,Aix sponsa,L747767,Imperial Grasslands--Truck Stop,2023-05-24 18:27,3,40.4288843,-80.2958107,True,False,False,S139141681
+graspa,Grasshopper Sparrow,Ammodramus savannarum,L747767,Imperial Grasslands--Truck Stop,2023-05-24 18:27,2,40.4288843,-80.2958107,True,False,False,S139141681
+boboli,Bobolink,Dolichonyx oryzivorus,L747767,Imperial Grasslands--Truck Stop,2023-05-24 18:27,2,40.4288843,-80.2958107,True,False,False,S139141681
+whtspa,White-throated Sparrow,Zonotrichia albicollis,L14703979,"609 McKee Rd, Washington US-PA 40.17909, -80.31744",2023-05-24 18:16,1,40.179091,-80.317439,True,False,True,S139137452
+rebnut,Red-breasted Nuthatch,Sitta canadensis,L14703979,"609 McKee Rd, Washington US-PA 40.17909, -80.31744",2023-05-24 18:16,2,40.179091,-80.317439,True,False,True,S139137452
+wiltur,Wild Turkey,Meleagris gallopavo,L275537,Pennypack Ecological Restoration Trust,2023-05-24 18:15,3,40.142238,-75.082901,True,False,False,S139148511
+savspa,Savannah Sparrow,Passerculus sandwichensis,L7239357,Fields south of Norlo Park,2023-05-24 18:15,1,39.9093741,-77.5771236,True,False,True,S139150668
+reshaw,Red-shouldered Hawk,Buteo lineatus,L5101524,Sachs Covered Bridge,2023-05-24 18:10,2,39.7973346,-77.2763783,True,False,False,S139141632
+yebcuc,Yellow-billed Cuckoo,Coccyzus americanus,L3448334,"748 Gravel Point Road, Howard PA",2023-05-24 18:05,1,41.0279417,-77.6949535,True,False,True,S139141116
+amekes,American Kestrel,Falco sparverius,L21490266,"Private Residence--35 Wetmore Street, Wellsboro",2023-05-24 18:00,1,41.7519632,-77.2909192,True,False,True,S139136536
+winwre3,Winter Wren,Troglodytes hiemalis,L24629867,"Square Timber Overlooks, Cameron co",2023-05-24 18:00,1,41.427753,-78.114774,True,False,True,S139138143
+banswa,Bank Swallow,Riparia riparia,L7520542,Camp Riamo/Howard Rds. (Blue Barn),2023-05-24 17:53,2,39.7647343,-79.5727944,True,False,False,S139144318
+rudduc,Ruddy Duck,Oxyura jamaicensis,L333444,Peace Valley Park--Nature Center,2023-05-24 17:47,1,40.3402349,-75.1714262,True,False,False,S139143586
+comgal1,Common Gallinule,Gallinula galeata,L129822,Peace Valley Park (IBA),2023-05-24 17:45,1,40.3261424,-75.1893997,True,True,False,S139143760
+perfal,Peregrine Falcon,Falco peregrinus,L19303058,Twin Bridges,2023-05-24 17:31,3,40.006166,-75.193153,True,False,True,S139132090
+acafly,Acadian Flycatcher,Empidonax virescens,L7679538,Westmoreland Heritage Trail--Murrysville to Export,2023-05-24 17:25,1,40.4195364,-79.6587753,True,False,False,S139137968
+motduc,Mottled Duck,Anas fulvigula,L677216,Canonsburg Lake,2023-05-24 17:25,1,40.269883,-80.1315522,True,True,False,S139136486
+leafly,Least Flycatcher,Empidonax minimus,L1497313,Chadds Ford Marsh,2023-05-24 17:20,1,39.873413,-75.5953266,True,False,False,S139158127
+magwar,Magnolia Warbler,Setophaga magnolia,L150879,Silver Lake Park/Nature Center,2023-05-24 17:16,1,40.114727,-74.86073,True,False,False,S139136604
+laugul,Laughing Gull,Leucophaeus atricilla,L1291093,Delaware River Trail--Reed St.,2023-05-24 17:15,1,39.9293198,-75.1410636,True,False,False,S139131080
+hergul,Herring Gull,Larus argentatus,L1291093,Delaware River Trail--Reed St.,2023-05-24 17:15,1,39.9293198,-75.1410636,True,False,False,S139131080
+ribgul,Ring-billed Gull,Larus delawarensis,L1291093,Delaware River Trail--Reed St.,2023-05-24 17:15,20,39.9293198,-75.1410636,True,False,False,S139131080
+chswar,Chestnut-sided Warbler,Setophaga pensylvanica,L9257877,Corry Junction Greenway Trail (PA),2023-05-24 17:08,2,41.9557986,-79.6395171,True,False,False,S139142159
+brncre,Brown Creeper,Certhia americana,L9257877,Corry Junction Greenway Trail (PA),2023-05-24 17:08,1,41.9557986,-79.6395171,True,False,False,S139142159
+veery,Veery,Catharus fuscescens,L9257877,Corry Junction Greenway Trail (PA),2023-05-24 17:08,1,41.9557986,-79.6395171,True,False,False,S139142159
+blkvul,Black Vulture,Coragyps atratus,L12277819,Stuart Park At Barnitz Mill,2023-05-24 16:53,1,40.1241696,-77.2205276,True,False,True,S139131456
+olsfly,Olive-sided Flycatcher,Contopus cooperi,L129789,Scotia  Barrens (IBA)--general,2023-05-24 16:38,1,40.789936,-77.951136,True,False,False,S139133957
+prawar,Prairie Warbler,Setophaga discolor,L1185879,Ft. Necessity National Battlefield,2023-05-24 16:12,1,39.8151456,-79.5891023,True,False,False,S139151752
+yerwar,Yellow-rumped Warbler,Setophaga coronata,L5837624,Plainfield Twp. Rec. Trail--North,2023-05-24 15:48,1,40.8264414,-75.2671865,True,False,False,S139129124
+herthr,Hermit Thrush,Catharus guttatus,L5837624,Plainfield Twp. Rec. Trail--North,2023-05-24 15:48,1,40.8264414,-75.2671865,True,False,False,S139129124
+aldfly,Alder Flycatcher,Empidonax alnorum,L5837624,Plainfield Twp. Rec. Trail--North,2023-05-24 15:48,1,40.8264414,-75.2671865,True,False,False,S139129124
+btbwar,Black-throated Blue Warbler,Setophaga caerulescens,L5837624,Plainfield Twp. Rec. Trail--North,2023-05-24 15:48,1,40.8264414,-75.2671865,True,False,False,S139129124
+buwwar,Blue-winged Warbler,Vermivora cyanoptera,L129789,Scotia  Barrens (IBA)--general,2023-05-24 15:33,1,40.789936,-77.951136,True,False,False,S139133866
+btnwar,Black-throated Green Warbler,Setophaga virens,L24630460,Whiskey Springs Climbing Area/Appalachian Trail,2023-05-24 15:08,1,40.0976669,-77.1284233,True,False,True,S139141292
+linspa,Lincoln's Sparrow,Melospiza lincolnii,L2230293,1 Near Ravine Park,2023-05-24 15:06,1,42.1162567,-80.1297226,True,False,True,S139123537
+semsan,Semipalmated Sandpiper,Calidris pusilla,L630368,Dashields Dam,2023-05-24 14:52,2,40.5530399,-80.2133274,True,False,False,S139119949
+cliswa,Cliff Swallow,Petrochelidon pyrrhonota,L527306,State Game Lands 214--Miller Ponds,2023-05-24 14:42,2,41.6061661,-80.4182804,True,False,False,S139141010
+semplo,Semipalmated Plover,Charadrius semipalmatus,L527306,State Game Lands 214--Miller Ponds,2023-05-24 14:42,1,41.6061661,-80.4182804,True,False,False,S139141010
+greyel,Greater Yellowlegs,Tringa melanoleuca,L527306,State Game Lands 214--Miller Ponds,2023-05-24 14:42,1,41.6061661,-80.4182804,True,False,False,S139141010
+dunlin,Dunlin,Calidris alpina,L527306,State Game Lands 214--Miller Ponds,2023-05-24 14:42,1,41.6061661,-80.4182804,True,False,False,S139141010
+brwhaw,Broad-winged Hawk,Buteo platypterus,L24626470,"Laurel Rd, Clarion US-PA 41.17600, -79.45127",2023-05-24 14:40,1,41.175998,-79.451274,True,False,True,S139121501
+blugrb1,Blue Grosbeak,Passerina caerulea,L3258198,Cumberland Valley Rail Trail--Newville,2023-05-24 14:33,1,40.1651601,-77.4062884,True,False,False,S139119991
+babwar,Bay-breasted Warbler,Setophaga castanea,L504403,John Heinz NWR--impoundment (Philadelphia Co.),2023-05-24 14:22,2,39.8893501,-75.2601457,True,False,False,S139141455
+marwre,Marsh Wren,Cistothorus palustris,L504403,John Heinz NWR--impoundment (Philadelphia Co.),2023-05-24 14:22,5,39.8893501,-75.2601457,True,False,False,S139141455
+lesyel,Lesser Yellowlegs,Tringa flavipes,L504403,John Heinz NWR--impoundment (Philadelphia Co.),2023-05-24 14:22,2,39.8893501,-75.2601457,True,False,False,S139141455
+norwat,Northern Waterthrush,Parkesia noveboracensis,L504403,John Heinz NWR--impoundment (Philadelphia Co.),2023-05-24 14:22,2,39.8893501,-75.2601457,True,False,False,S139141455
+leabit,Least Bittern,Ixobrychus exilis,L504403,John Heinz NWR--impoundment (Philadelphia Co.),2023-05-24 14:22,1,39.8893501,-75.2601457,True,False,False,S139141455
+tenwar,Tennessee Warbler,Leiothlypis peregrina,L129756,Presque Isle SP (IBA),2023-05-24 13:39,2,42.15868,-80.0994568,True,False,False,S139132011
+phivir,Philadelphia Vireo,Vireo philadelphicus,L129756,Presque Isle SP (IBA),2023-05-24 13:39,1,42.15868,-80.0994568,True,False,False,S139132011
+henspa,Henslow's Sparrow,Centronyx henslowii,L2159535,Imperial Grasslands--Burgettstown/Robinson Rd. Area,2023-05-24 13:36,1,40.4590173,-80.2835369,True,False,False,S139114145
+sancra,Sandhill Crane,Antigone canadensis,L733414,Conneaut Marsh--McMichael/Brown Hill Rd.,2023-05-24 13:15,2,41.587218,-80.2651531,True,False,False,S139130368
+prowar,Prothonotary Warbler,Protonotaria citrea,L733414,Conneaut Marsh--McMichael/Brown Hill Rd.,2023-05-24 13:15,1,41.587218,-80.2651531,True,False,False,S139130368
+solsan,Solitary Sandpiper,Tringa solitaria,L831953,Middle Creek WMA (IBA) (Lancaster Co.),2023-05-24 12:20,1,40.2716676,-76.247735,True,False,False,S139158395
+rinphe1,Ring-necked Pheasant,Phasianus colchicus,L831953,Middle Creek WMA (IBA) (Lancaster Co.),2023-05-24 12:20,6,40.2716676,-76.247735,True,False,False,S139158395,X
+vesspa,Vesper Sparrow,Pooecetes gramineus,L831953,Middle Creek WMA (IBA) (Lancaster Co.),2023-05-24 12:20,1,40.2716676,-76.247735,True,False,False,S139158395
+wlswar,Wilson's Warbler,Cardellina pusilla,L504403,John Heinz NWR--impoundment (Philadelphia Co.),2023-05-24 12:03,1,39.8893501,-75.2601457,True,False,False,S139111731
+ruckin,Ruby-crowned Kinglet,Corthylio calendula,L5533856,Home at 1041 Resolution,2023-05-24 12:00,1,40.6455667,-75.3934193,True,False,True,S139119118
+yebsap,Yellow-bellied Sapsucker,Sphyrapicus varius,L129761,Erie NWR--Tsuga Trail/Refuge HQ Area,2023-05-24 11:53,1,41.626627,-79.9603114,True,False,False,S139111876
+yetwar,Yellow-throated Warbler,Setophaga dominica,L2322644,Friendship Hill NHS,2023-05-24 11:38,2,39.7766999,-79.9246476,True,False,False,S139099634
+bcnher,Black-crowned Night-Heron,Nycticorax nycticorax,L2056252,Lake Ontelaunee Dam,2023-05-24 11:30,3,40.4466205,-75.9326077,True,False,True,S139143657
+rufgro,Ruffed Grouse,Bonasa umbellus,L23717599,East Hickory creek (tanbark),2023-05-24 10:50,1,41.7143672,-79.2624578,True,False,True,S139109943
+naswar,Nashville Warbler,Leiothlypis ruficapilla,L688252,Rothrock SF--Shingletown Gap,2023-05-24 10:15,2,40.7538404,-77.8180718,True,False,False,S139102905
+amewoo,American Woodcock,Scolopax minor,L24626395,SGL 226 Wooded trails,2023-05-24 10:13,1,41.123348,-76.564921,True,False,True,S139121132
+gnwtea,Green-winged Teal,Anas crecca,L907532,Wingfield Pines,2023-05-24 10:00,1,40.339369,-80.1108214,True,False,False,S139088635
+hoomer,Hooded Merganser,Lophodytes cucullatus,L321401,Nescopeck SP,2023-05-24 09:57,1,41.0903942,-75.8802674,True,False,False,S139112599
+shshaw,Sharp-shinned Hawk,Accipiter striatus,L264479,Colyer Lake Recreation Area,2023-05-24 09:56,1,40.7742571,-77.6828193,True,False,False,S139078085
+ambduc,American Black Duck,Anas rubripes,L1976420,Weir Lake,2023-05-24 09:56,1,40.9137963,-75.4210675,True,False,False,S139142638
+gowwar,Golden-winged Warbler,Vermivora chrysoptera,L24621008,"Delaware State Forest, Milford US-PA 41.23223, -75.03456",2023-05-24 09:42,2,41.232232,-75.034557,True,False,True,S139089620
+x00195,Carolina x Black-capped Chickadee (hybrid),Poecile carolinensis x atricapillus,L2034555,Irwin Run,2023-05-24 09:39,3,40.6238553,-80.0052738,True,False,False,S139082301
+gycthr,Gray-cheeked Thrush,Catharus minimus,L2778308,Frick Park--Beechwood Entrance,2023-05-24 09:27,1,40.4366599,-79.9069092,True,False,False,S139088548
+buffle,Bufflehead,Bucephala albeola,L372103,Beltzville SP,2023-05-24 09:20,1,40.8618621,-75.6256771,True,False,False,S139117046
+pipplo,Piping Plover,Charadrius melodus,L1056700,Presque Isle SP--Beach 10,2023-05-24 08:18,1,42.1726547,-80.0875593,True,False,False,S139143807
+amebit,American Bittern,Botaurus lentiginosus,L1056700,Presque Isle SP--Beach 10,2023-05-24 08:18,1,42.1726547,-80.0875593,True,False,False,S139143807
+camwar,Cape May Warbler,Setophaga tigrina,L1056700,Presque Isle SP--Beach 10,2023-05-24 08:18,1,42.1726547,-80.0875593,True,True,False,S139143807
+palwar,Palm Warbler,Setophaga palmarum,L1056700,Presque Isle SP--Beach 10,2023-05-24 08:18,1,42.1726547,-80.0875593,True,False,False,S139143807
+comloo,Common Loon,Gavia immer,L985316,Chapel Harbor,2023-05-24 08:11,1,40.485112,-79.8838247,True,False,False,S139082496
+kenwar,Kentucky Warbler,Geothlypis formosa,L654728,Pleasant Valley Park,2023-05-24 08:05,3,40.4104511,-79.6893284,True,False,False,S139067137
+mouwar,Mourning Warbler,Geothlypis philadelphia,L6253940,North Park--Mine Waste Field/Pine Creek Area,2023-05-24 07:58,1,40.5864513,-79.9791598,True,False,False,S139076822
+virrai,Virginia Rail,Rallus limicola,L3135081,PA-SQ-VanCott's,2023-05-24 07:05,4,41.8348833,-75.7117653,True,False,True,S139066955
+gockin,Golden-crowned Kinglet,Regulus satrapa,L9297430,Quarry Ridge/powerline cut,2023-05-24 07:04,3,41.5482614,-75.7023795,True,False,True,S139079932
+x00759,Domestic goose sp. x Canada Goose (hybrid),Anser sp. (Domestic type) x Branta canadensis,L2439198,Southwest Philadelphia WTP (restricted access),2023-05-24 07:02,1,39.8890603,-75.2147198,True,False,False,S139116166,X
+truswa,Trumpeter Swan,Cygnus buccinator,L1056930,Creekview Rd.,2023-05-23 20:49,1,40.1870536,-77.4419403,True,True,False,S139035550
+renpha,Red-necked Phalarope,Phalaropus lobatus,L24608477,"622–636 Doubling Gap Rd, Newville US-PA 40.21089, -77.41415",2023-05-23 19:56,1,40.210892,-77.414152,True,True,True,S139030176
+norhar2,Northern Harrier,Circus hudsonius,L24608605,"Carmen's Way, East Stroudsburg US-PA 41.04945, -75.07446",2023-05-23 18:07,1,41.049453,-75.074456,True,False,True,S139030808
+blkswa,Black Swan,Cygnus atratus,L616643,Green Lane Park--Church Rd. Bird Sanctuary,2023-05-23 17:45,2,40.386532,-75.5158192,True,True,False,S139034695,X
+eucdov,Eurasian Collared-Dove,Streptopelia decaocto,L24608005,"268 West Farmersville Road, West Earl Township, Pennsylvania, US (40.127, -76.185)",2023-05-23 16:40,1,40.1267785,-76.1851074,True,True,True,S139027602,N
+whcspa,White-crowned Sparrow,Zonotrichia leucophrys,L1046551,Sinnemahoning SP (Cameron Co.),2023-05-23 16:30,1,41.4417291,-78.04636,True,False,False,S139025582
+snogoo,Snow Goose,Anser caerulescens,L831953,Middle Creek WMA (IBA) (Lancaster Co.),2023-05-23 16:25,1,40.2716676,-76.247735,True,False,False,S139026230
+caster1,Caspian Tern,Hydroprogne caspia,L1056703,Presque Isle SP--Thompson Bay,2023-05-23 15:15,3,42.1681112,-80.081749,True,False,False,S139033211
+gragoo,Graylag Goose,Anser anser,L8450831,Siebel Farm,2023-05-23 14:43,8,40.505871,-80.3250679,True,False,True,S138997023,X
+lessca,Lesser Scaup,Aythya affinis,L129778,Yellow Creek SP (IBA),2023-05-23 13:32,2,40.5739352,-79.0204525,True,False,False,S139170511
+forter,Forster's Tern,Sterna forsteri,L129778,Yellow Creek SP (IBA),2023-05-23 13:32,2,40.5739352,-79.0204525,True,False,False,S139170511
+y00475,American Coot,Fulica americana,L504403,John Heinz NWR--impoundment (Philadelphia Co.),2023-05-23 12:44,2,39.8893501,-75.2601457,True,False,False,S139109217
+sora,Sora,Porzana carolina,L981289,State Game Lands 95--Glade Dam Lake,2023-05-23 11:22,1,41.0506504,-79.8884478,True,False,False,S139027293
+gloibi,Glossy Ibis,Plegadis falcinellus,L504403,John Heinz NWR--impoundment (Philadelphia Co.),2023-05-23 11:19,1,39.8893501,-75.2601457,True,False,False,S139005004
+norbob,Northern Bobwhite,Colinus virginianus,L243138,Gifford Pinchot SP,2023-05-23 10:25,1,40.0712436,-76.8879461,True,True,False,S139038260
+easowl1,Eastern Screech-Owl,Megascops asio,L6566126,Vinosky Yard,2023-05-23 10:25,1,40.507783,-75.5923235,True,False,True,S138967068
+pibgre,Pied-billed Grebe,Podilymbus podiceps,L272015,Marsh Creek SP,2023-05-23 10:00,1,40.0675599,-75.719985,True,False,False,S139138919
+yebfly,Yellow-bellied Flycatcher,Empidonax flaviventris,L1056686,Presque Isle SP--Fry's Landing,2023-05-23 09:43,1,42.1588226,-80.0832081,True,False,False,S139025415
+brewar,Brewster's Warbler (hybrid),Vermivora chrysoptera x cyanoptera (F1 hybrid),L129789,Scotia  Barrens (IBA)--general,2023-05-23 09:22,1,40.789936,-77.951136,True,True,False,S138997162
+brnowl,Barn Owl,Tyto alba,L22159209,Centre Hall BNOW nest box - undisclosed location,2023-05-23 09:10,6,40.84592,-77.685045,True,True,True,S138959493
+amepip,American Pipit,Anthus rubescens,L226811,Bradford Dam/Nike Park,2023-05-23 08:25,1,40.228034,-75.160078,True,True,False,S139057267
+sander,Sanderling,Calidris alba,L129756,Presque Isle SP (IBA),2023-05-23 08:19,1,42.15868,-80.0994568,True,False,False,S138955922
+musduc,Muscovy Duck,Cairina moschata,L1479509,Unionville--Bald Eagle Creek,2023-05-23 06:15,2,40.9060393,-77.8701494,True,False,False,S139133801,X
+shbdow,Short-billed Dowitcher,Limnodromus griseus,L1582385,Godshall Property,2023-05-22 23:03,40.3233161,-75.3943145,True,True,True,S139077016
+nswowl,Northern Saw-whet Owl,Aegolius acadicus,L7624665,Clear-cut,2023-05-22 20:17,1,41.716684,-79.2801406,True,True,True,S138921946
+gbbgul,Great Black-backed Gull,Larus marinus,L16772831,Le Chateau de Chouette,2023-05-22 19:48,1,40.064919,-75.235012,True,False,True,S138912476
+miskit,Mississippi Kite,Ictinia mississippiensis,L1152907,Okehocking Preserve,2023-05-22 19:44,1,39.9697039,-75.4825115,True,True,False,S139006099
+norpin,Northern Pintail,Anas acuta,L1848252,Children's Lake,2023-05-22 17:41,1,40.1483769,-77.1263945,True,True,False,S138975834
+bongul,Bonaparte's Gull,Chroicocephalus philadelphia,L999548,Presque Isle SP--Leo's Landing,2023-05-22 15:05,2,42.1268858,-80.1431528,True,False,False,S138908457
+bkbplo,Black-bellied Plover,Pluvialis squatarola,L337068,Presque Isle SP--Gull Pt.,2023-05-22 10:45,2,42.169432,-80.0617236,True,False,False,S138845527
+tunswa,Tundra Swan,Cygnus columbianus,L8909700,Steelton Boat Launch,2023-05-22 09:25,1,40.208197,-76.798834,True,True,True,S138833735
+merlin,Merlin,Falco columbarius,L337068,Presque Isle SP--Gull Pt.,2023-05-22 09:17,1,42.169432,-80.0617236,True,False,False,S138956110
+blkter,Black Tern,Chlidonias niger,L129756,Presque Isle SP (IBA),2023-05-22 09:01,2,42.15868,-80.0994568,True,True,False,S138821090
+x00669,Golden-winged x Blue-winged Warbler (hybrid),Vermivora chrysoptera x cyanoptera,L1378833,Scotia Barrens (IBA)--south,2023-05-22 08:51,1,40.76048,-77.97386,True,True,False,S138929042
+gresca,Greater Scaup,Aythya marila,L129756,Presque Isle SP (IBA),2023-05-22 08:00,1,42.15868,-80.0994568,True,False,False,S138921548
+rudtur,Ruddy Turnstone,Arenaria interpres,L2474740,Presque Isle SP--Beach 9,2023-05-22 07:46,5,42.1725444,-80.0981838,True,True,False,S138822175
+conwar,Connecticut Warbler,Oporornis agilis,L129756,Presque Isle SP (IBA),2023-05-22 07:28,1,42.15868,-80.0994568,True,True,False,S138871767
+bicthr,Bicknell's Thrush,Catharus bicknelli,L421954,Wheatland Hills Glenbrook Area Community Park,2023-05-22 07:17,1,40.0422364,-76.3447666,True,True,False,S138824834
+dickci,Dickcissel,Spiza americana,L19334357,Siegfriedale Road (T831) at Kunkel Road (T855),2023-05-21 15:45,1,40.551391,-75.714501,True,True,True,S138781176
+uplsan,Upland Sandpiper,Bartramia longicauda,L6079585,State Game Lands 214-- Wilson Rd. (restricted access),2023-05-21 13:13,1,41.6009867,-80.4135168,True,False,False,S138762285
+pinsis,Pine Siskin,Spinus pinus,L1831684,Sproul SF--Ritchie Rd.,2023-05-21 11:50,1,41.3606045,-77.5575221,True,False,False,S138686421
+rinduc,Ring-necked Duck,Aythya collaris,L129831,Canoe Creek SP (IBA),2023-05-21 09:54,1,40.4833233,-78.2789545,True,True,False,S138682073
+horgre,Horned Grebe,Podiceps auritus,L129756,Presque Isle SP (IBA),2023-05-21 09:51,1,42.15868,-80.0994568,True,False,False,S138764039
+comter,Common Tern,Sterna hirundo,L337068,Presque Isle SP--Gull Pt.,2023-05-21 08:31,2,42.169432,-80.0617236,True,False,False,S138660707
+buwtea,Blue-winged Teal,Spatula discors,L651702,Dreibelbis Birding Area (formerly Julian Wetlands),2023-05-21 07:50,1,40.8445931,-77.9854202,True,True,False,S138706128
+ycnher,Yellow-crowned Night-Heron,Nyctanassa violacea,L24569383,"280 Muench St, Harrisburg US-PA 40.27635, -76.89418",2023-05-20 16:00,3,40.276348,-76.894176,True,False,True,S138840934
+whrsan,White-rumped Sandpiper,Calidris fuscicollis,L20419074,"Mosquito Lane, West Grove, Pennsylvania, US (39.858, -75.835)",2023-05-20 14:30,1,39.8581683,-75.8346117,True,True,True,S138627810
+lawwar,Lawrence's Warbler (hybrid),Vermivora chrysoptera x cyanoptera (F2 backcross),L1378833,Scotia Barrens (IBA)--south,2023-05-20 09:16,1,40.76048,-77.97386,True,True,False,S138517787
+lbbgul,Lesser Black-backed Gull,Larus fuscus,L337068,Presque Isle SP--Gull Pt.,2023-05-20 08:05,1,42.169432,-80.0617236,True,True,False,S138510305
+amewig,American Wigeon,Mareca americana,L129811,Conejohela Flats (IBA),2023-05-20 06:28,1,39.9743445,-76.4653158,True,True,False,S138533117
+brnpel,Brown Pelican,Pelecanus occidentalis,L831953,Middle Creek WMA (IBA) (Lancaster Co.),2023-05-19 17:43,1,40.2716676,-76.247735,True,True,False,S138445431
+snoegr,Snowy Egret,Egretta thula,L337068,Presque Isle SP--Gull Pt.,2023-05-19 17:30,3,42.169432,-80.0617236,True,True,False,S138451509
+pecsan,Pectoral Sandpiper,Calidris melanotos,L7369104,Antrim Commons Dr. Ponds,2023-05-19 15:20,1,39.7603111,-77.7365413,True,True,False,S138407640
+redcro,Red Crossbill,Loxia curvirostra,L24508304,Watershed Road Stone Valley Forest,2023-05-19 14:02,17,40.66031,-77.946675,True,True,True,S138553639
+clcspa,Clay-colored Sparrow,Spizella pallida,L1056689,Presque Isle SP--North Pier,2023-05-19 12:53,1,42.1553867,-80.0726509,True,True,False,S138401499
+rebmer,Red-breasted Merganser,Mergus serrator,L630368,Dashields Dam,2023-05-19 09:38,2,40.5530399,-80.2133274,True,True,False,S138363830
+whimbr,Whimbrel,Numenius phaeopus,L511542,Delaware River--Hog Island Rd. (Delaware Co.),2023-05-19 08:17,1,39.8584371,-75.2606074,True,True,False,S138352228
+rusbla,Rusty Blackbird,Euphagus carolinus,L1586651,Fairmount Park--Horticultural Center/Concourse Lake Area,2023-05-18 17:34,1,39.9825899,-75.2119072,True,False,False,S138306198
+gadwal,Gadwall,Mareca strepera,L129778,Yellow Creek SP (IBA),2023-05-18 16:01,2,40.5739352,-79.0204525,True,True,False,S138320786
+wilsni1,Wilson's Snipe,Gallinago delicata,L504403,John Heinz NWR--impoundment (Philadelphia Co.),2023-05-18 12:11,1,39.8893501,-75.2601457,True,False,False,S138305255
+comshe,Common Shelduck,Tadorna tadorna,L1853598,Lion's Lake Park (Ebenezer Lake),2023-05-18 09:12,1,40.358542,-76.452838,True,True,False,S138231142,X
+wilpha,Wilson's Phalarope,Phalaropus tricolor,L337068,Presque Isle SP--Gull Pt.,2023-05-18 07:59,1,42.169432,-80.0617236,True,True,False,S138230093
+anhing,Anhinga,Anhinga anhinga,L129811,Conejohela Flats (IBA),2023-05-18,1,39.9743445,-76.4653158,True,True,False,S138512828
+brnboo,Brown Booby,Sula leucogaster,L5598700,Penn Warner Tract General Area (restricted access),2023-05-17 13:00,1,40.1508659,-74.779011,True,True,False,S139016165
+x00004,Mallard x American Black Duck (hybrid),Anas platyrhynchos x rubripes,L24417272,"Highland Park, Pittsburgh US-PA 40.48096, -79.91661",2023-05-17 09:29,2,40.480965,-79.91661,True,False,True,S138114879
+redhea,Redhead,Aythya americana,L1569588,Shawnee SP,2023-05-17 08:46,2,40.0267488,-78.6362731,True,True,False,S138143659
+evegro,Evening Grosbeak,Coccothraustes vespertinus,L2137798,"Rail Trail, Straight Run vacinity",2023-05-14 07:00,1,41.7758245,-77.3946047,True,True,True,S137673330
+orcwar,Orange-crowned Warbler,Leiothlypis celata,L129779,Powdermill Nature Reserve,2023-05-14 06:50,1,40.1600171,-79.2715663,True,True,False,S137681499
+stisan,Stilt Sandpiper,Calidris himantopus,L677216,Canonsburg Lake,2023-05-13 18:44,1,40.269883,-80.1315522,True,True,False,S137560750
+sursco,Surf Scoter,Melanitta perspicillata,L10995272,Faylor lake,2023-05-13 09:09,1,40.7612684,-77.2153473,True,True,True,S137540413
+libher,Little Blue Heron,Egretta caerulea,L715912,Woodlands Cemetery ,2023-05-13 06:56,2,39.9471872,-75.2031326,True,False,False,S137352893
+whwdov,White-winged Dove,Zenaida asiatica,L11104306,"Transfer, PA -Rt. 18/Rutledge Rd.",2023-05-12 16:40,1,41.3189151,-80.4110391,True,True,True,S137302149
+comgol,Common Goldeneye,Bucephala clangula,L1056673,Presque Isle SP--Niagara Boat Launch,2023-05-12 15:49,11,42.1455195,-80.1311392,True,False,False,S137254191
+swtkit,Swallow-tailed Kite,Elanoides forficatus,L1089774,C.A.O.S. Head Quarters.,2023-05-12 09:09,1,39.8666571,-75.9682193,True,True,True,S137293311
+redpha1,Red Phalarope,Phalaropus fulicarius,L333444,Peace Valley Park--Nature Center,2023-05-12 07:37,1,40.3402349,-75.1714262,True,True,False,S137293043
+swawar,Swainson's Warbler,Limnothlypis swainsonii,L18301591,Powdermill Avian Research Center,2023-05-12 05:30,1,40.163504,-79.267344,True,True,True,S137486641
+amtspa,American Tree Sparrow,Spizelloides arborea,L1056703,Presque Isle SP--Thompson Bay,2023-05-11 13:47,1,42.1681112,-80.081749,True,True,False,S137122158
+yehbla,Yellow-headed Blackbird,Xanthocephalus xanthocephalus,L6289844,Presque Isle SP--Leslie Beach/Lighthouse Area,2023-05-11 12:59,1,42.16664,-80.1129591,True,True,False,S137093604
