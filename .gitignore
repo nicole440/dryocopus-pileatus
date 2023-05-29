@@ -1,4 +1,5 @@
 .env
 recent_observations.csv
 pa_species.csv
+pa_hotspots_data.csv
 ebd_US_pilwoo_relApr-2023.txt
