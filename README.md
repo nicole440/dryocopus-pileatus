@@ -47,3 +47,6 @@ This project retrieves data from the eBird API using Python. It fetches species 
 ### Notes
 The .env file is excluded from version control to protect your API key. Make sure not to commit it to your repository.
 Remember to respect the terms of use and any applicable data usage guidelines provided by eBird when working with the data obtained from their API.
+
+### Citation
+eBird Basic Dataset. Version: EBD_relApr-2023. Cornell Lab of Ornithology, Ithaca, New York. Apr 2023.
