@@ -13,12 +13,18 @@ load_dotenv()
 #     df = pd.read_csv(url, parse_dates = ['date'])
 #     return df
 
+# TODO Remove date from email data CSV file
+# TODO Create a function that reads new observation data and matches observation criteria on current date with email alert data
+
 # Parse CSV file containing email alert data and load into DataFrame
 data = f"email_data.csv"
+
 def load_df(data):
     df = pd.read_csv(data, parse_dates = ['date'])
     return df
 
+# Only sends alerts if bird is logged as rare and if date observed matches current date
+# TODO Date ultimately needs to be read from the observations, not from the email alert data
 def query_data_and_send_emails(df):
     present = date.today()
     email_counter = 0
