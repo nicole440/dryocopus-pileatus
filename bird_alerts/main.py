@@ -5,12 +5,18 @@ import os
 from dotenv import load_dotenv
 load_dotenv()
 
-SHEET_NAME = "Sheet1"
-SHEET_ID = os.getenv("SHEET_ID")
-url = f"https://docs.google.com/spreadsheets/d/{SHEET_ID}/gviz/tq?tqx=out:csv&sheet={SHEET_NAME}"
+# SHEET_NAME = "Sheet1"
+# SHEET_ID = os.getenv("SHEET_ID")
+# url = f"https://docs.google.com/spreadsheets/d/{SHEET_ID}/gviz/tq?tqx=out:csv&sheet={SHEET_NAME}"
 
-def load_df(url):
-    df = pd.read_csv(url, parse_dates = ['date'])
+# def load_df(url):
+#     df = pd.read_csv(url, parse_dates = ['date'])
+#     return df
+
+# Parse CSV file containing email alert data and load into DataFrame
+data = f"email_data.csv"
+def load_df(data):
+    df = pd.read_csv(data, parse_dates = ['date'])
     return df
 
 def query_data_and_send_emails(df):
@@ -30,7 +36,7 @@ def query_data_and_send_emails(df):
         email_counter += 1
     return f"Total Emails Sent: {email_counter}"
 
-df = load_df(url)
+df = load_df(data)
 result = query_data_and_send_emails(df)
 print(df)
 print(result)
