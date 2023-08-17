@@ -4,7 +4,7 @@ def transform_columns(dataframe):
     columns_to_drop = ['countryCode', 'subnational1Code']
     # Drop the specified columns from the DataFrame
     dataframe = dataframe.drop(columns=columns_to_drop)
-    dataframe = dataframe.rename(columns={'locId': 'Location_ID', 'locName': 'Location_Name', 'subnational2Code': 'Sub-National_Code',
-                                                 'lat': 'Latitude', 'lng': 'Longitude', 'latestObsDt': 'Date_of_Most_Recent_Observation', 
-                                                 'numSpeciesAllTime': 'Total_Species_Recorded_at_Location'})
+    dataframe = dataframe.rename(columns={'locId': 'location_id', 'locName': 'location_name', 'subnational2Code': 'sub_national_code',
+                                                 'lat': 'latitude', 'lng': 'longitude', 'latestObsDt': 'date_recent_observation', 
+                                                 'numSpeciesAllTime': 'total_species_recorded_at_location'})
     return dataframe
