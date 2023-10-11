@@ -20,7 +20,7 @@ load_dotenv()
 data = f"email_data.csv"
 
 def load_df(data):
-    df = pd.read_csv(data, parse_dates = ['date'])
+    df = pd.read_csv(data, parse_dates=['date'], date_format='%Y-%m-%d')
     return df
 
 # Only sends alerts if bird is logged as rare and if date observed matches current date
@@ -39,7 +39,7 @@ def query_data_and_send_emails(df):
                 date=row["date"].strftime("%B %d, %Y"),
                 location_name=row["location_name"]
             )
-        email_counter += 1
+            email_counter += 1
     return f"Total Emails Sent: {email_counter}"
 
 df = load_df(data)
